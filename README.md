@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at [Think And Dev](https://thinkanddev.com/) as Blockchain Developer
-- 🌱 Interested in **Smart Contracts**, **DeFi** and **EVM networks**
+- 🌱 Interested in **Smart Contracts**, **DeFi**, **EVM networks** and **Web3 development**
 - 📫 **djaciel01@gmail.com** / [Linkedin](https://linkedin.com/in/jacielgzz)
 
 <p align="center">

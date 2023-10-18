@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaciel Gonzalez</h1>
 
 
-- 🔭 I’m currently working at [Think And Dev](https://thinkanddev.com/) as Blockchain Developer
+- 🔭 I’m currently working as Blockchain Developer
 - 🌱 Interested in **Smart Contracts**, **DeFi**, **EVM networks** and **Web3 development**
 - 📫 **djaciel01@gmail.com** / [Linkedin](https://linkedin.com/in/jacielgzz)
 

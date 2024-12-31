@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working as Blockchain Developer
 - 🌱 Interested in **Smart Contracts**, **DeFi**, **EVM networks** and **Web3 development**
+- 🤖 In my free time, I enjoy building **algorithmic trading bots** and exploring strategies.
 - 📫 **djaciel01@gmail.com** / [Linkedin](https://linkedin.com/in/jacielgzz)
 
 <p align="center">
